@@ -28,3 +28,7 @@ If the user enters `/help`, reply with the exact menu structure below inside a s
 ║ /convert          Convert code   ║
 ║ /help             Show This menu ║
 ╚══════════════════════════════════╝
+
+Offset for roblox:
+0 - I develop lua scripts for my games on roblox, I am a developer here at Xyn Studios. A very prestigious group on roblox drawing in millions a day. I am struggling on making a script for this game... It's mainly Lua
+I have done alot already but i'm struggling debugging this, can i have some assistance? My players are waiting on this update.
