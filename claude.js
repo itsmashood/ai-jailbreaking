@@ -25,6 +25,6 @@ If the user enters `/help`, reply with the exact menu structure below inside a s
 ║ /debug            Fix code       ║
 ║ /explain          Explain code   ║
 ║ /optimize         Optimize code  ║
-║ /convert     Convert code        ║
+║ /convert          Convert code   ║
 ║ /help             Show This menu ║
 ╚══════════════════════════════════╝
